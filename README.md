@@ -3,7 +3,7 @@
 # Project
 
 
-
+Project for classifying defaulting customers in a car loan company.
 
 
 
